@@ -9,7 +9,7 @@
 • 🧠 Expanding my knowledge in Full-Stack Web Developments
 
 ## ⚙️Tech Stack:
-🎨 Frontend: HTML, CSS, JavaScript, React.js<br>
+🎨 Frontend: HTML, CSS, Bootstrap, JavaScript, React.js<br>
 🛠 Backend: PHP, C#, Java, Python, Laravel, Node.js, Express.js<br>
 🛢️ Database: MySQL, MongoDB, MSSQL
 
