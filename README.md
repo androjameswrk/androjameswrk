@@ -1,38 +1,39 @@
-## Hi there, I'm Andro James Nervida 👋
+# Hi there, I'm Andro James Nervida 👋
 
-🖥️ Aspiring Back End Web Developer <br>
-🎓 Bachelor of Science in Information Technology Graduate 2024
+🖥️ **Aspiring Back-End Web Developer**  
+🎓 **B.S. in Information Technology, Class of 2024**
 
-## 💡What I'm Working On:
-• 🤝 Looking for opportunity to collaborate with other developers to enchance my capabilities<br>
-• 📝 Learning and enchancing my expertise in Back-end Development<br>
-• 🧠 Expanding my knowledge in Full-Stack Web Developments
+---
 
-## ⚙️Tech Stack:
-🎨 Frontend: HTML, CSS, Bootstrap, JavaScript, React.js<br>
-🛠 Backend: PHP, C#, Java, Python, Laravel, Node.js, Express.js<br>
-🛢️ Database: MySQL, MongoDB, MSSQL
+## 💡 What I'm Working On
+- 🤝 Seeking opportunities to collaborate with other developers and grow as a professional  
+- 📝 Continuously learning and sharpening my skills in back-end development  
+- 🌐 Expanding my knowledge in full-stack web development  
 
-## 🛠️Code Editor:
-💻 Visual Studio Code<br>
-🧊 Apache NetBeans<br>
-✨ Sublime Code
+---
 
-## 📩 Let's Connect!
-📧 Email: androjamesnervida.wrk@gmail.com<br>
-🔗 LinkedIn: [androjameswrk](https://www.linkedin.com/in/andro-james-nervida-395736316/)
+## ⚙️ Tech Stack
 
-<!--
-**androjameswrk/androjameswrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend:**  
+`HTML` · `CSS` · `Bootstrap` · `JavaScript` · `React.js`  
 
-Here are some ideas to get you started:
+**Backend:**  
+`PHP` · `C#` · `Java` · `Python` · `Laravel` · `Node.js` · `Express.js`  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Databases:**  
+`MySQL` · `MongoDB` · `MSSQL`  
+
+---
+
+## 🛠️ Code Editors & Tools
+- 💻 **Visual Studio Code**  
+- 🧊 **Apache NetBeans**  
+- ✨ **Sublime Text**
+
+---
+
+## 📫 Let's Connect!
+- 📧 **Email:** androjamesnervida.wrk@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/andro-james-nervida-395736316](https://www.linkedin.com/in/andro-james-nervida-395736316/)
+
+---
