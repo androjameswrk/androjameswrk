@@ -1,6 +1,6 @@
 ## Hi there, I'm Andro James Nervida 👋
 
-🖥️ Aspiring Back End Web Developer <br></br>
+🖥️ Aspiring Back End Web Developer <br>
 🎓 Bachelor of Science in Information Technology Graduate 2024
 
 ## 💡What I'm Working On:
