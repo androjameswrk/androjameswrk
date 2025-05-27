@@ -10,7 +10,7 @@
 
 ## ⚙️Tech Stack:
 🎨 Frontend: HTML, CSS, JavaScript, React.js<br>
-🛠 Backend: PHP, C#, Java, Python, Node.js, Express.js<br>
+🛠 Backend: PHP, C#, Java, Python, Laravel, Node.js, Express.js<br>
 🛢️ Database: MySQL, MongoDB, MSSQL
 
 ## 🛠️Code Editor:
