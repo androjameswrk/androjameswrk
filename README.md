@@ -30,7 +30,6 @@ Hi there, I'm Andro James Nervida 👋
 - 🧊 **Apache NetBeans**  
 - ✨ **Sublime Text**
 
----
 
 📫 Let's Connect!
 ---
