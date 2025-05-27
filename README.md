@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2ea6cc61-c39d-4de3-b8a1-75b87ce9634e)## Hi there, I'm Andro James Nervida 👋
+## Hi there, I'm Andro James Nervida 👋
 
 🖥️ Aspiring Back End Web Developer
 🎓 Bachelor of Science in Information Technology Graduate 2024
