@@ -4,22 +4,22 @@
 🎓 Bachelor of Science in Information Technology Graduate 2024
 
 ## 💡What I'm Working On:
-• 🤝 Looking for opportunity to collaborate with other developers to enchance my capabilities
-• 📝 Learning and enchancing my expertise in Back-end Development
+• 🤝 Looking for opportunity to collaborate with other developers to enchance my capabilities<br>
+• 📝 Learning and enchancing my expertise in Back-end Development<br>
 • 🧠 Expanding my knowledge in Full-Stack Web Developments
 
 ## ⚙️Tech Stack:
-🎨 Frontend: HTML, CSS, JavaScript, React.js
-🛠 Backend: PHP, C#, Java, Python, Node.js, Express.js
+🎨 Frontend: HTML, CSS, JavaScript, React.js<br>
+🛠 Backend: PHP, C#, Java, Python, Node.js, Express.js<br>
 🛢️ Database: MySQL, MongoDB, MSSQL
 
 ## 🛠️Code Editor:
-💻 Visual Studio Code
-🧊 Apache NetBeans
+💻 Visual Studio Code<br>
+🧊 Apache NetBeans<br>
 ✨ Sublime Code
 
 ## 📩 Let's Connect!
-📧 Email: androjamesnervida.wrk@gmail.com
+📧 Email: androjamesnervida.wrk@gmail.com<br>
 🔗 LinkedIn: [androjameswrk](https://www.linkedin.com/in/andro-james-nervida-395736316/)
 
 <!--
