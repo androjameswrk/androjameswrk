@@ -26,7 +26,7 @@ Hi there, I'm Andro James Nervida 👋
 
 🛠️ Code Editors & Tools
 ---
-- 💻 **Visual Studio Code**  
+- 💻 **Visual Studio and Visual Studio Code**  
 - 🧊 **Apache NetBeans**  
 - ✨ **Sublime Text**
 
