@@ -1,7 +1,7 @@
 Hi there, I'm Andro James Nervida 👋
 ---
 
-🖥️ **Aspiring Back-End Web Developer**  
+🖥️ **Aspiring Back-End Developer**  
 🎓 **B.S. in Information Technology, Class of 2024**
 
 
